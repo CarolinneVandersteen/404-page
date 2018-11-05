@@ -1,24 +1,20 @@
- body
-  {
+body{
    background-color: #3c3c3c;
-
  }
 
- h1
- {
+h1{
    color: #e60000;
    border-style: solid;
    border-width: medium;
-   border-color: #3c3c3c;
-
-
-
-
-
+   border-color: #ff3c3c;
+   text-align: center;
  }
 
- p
- {
-   color:#787878;
+p{
+   color: #787878;
+   text-align: center;
+ }
 
+ button {
+   margin-left: 50%;
  }
