@@ -1,20 +1,25 @@
 body{
-   background-color: #3c3c3c;
+   background-color: #fccb46;
  }
 
-h1{
-   color: #e60000;
-   border-style: solid;
-   border-width: medium;
-   border-color: #ff3c3c;
-   text-align: center;
+ h1{
+  color: rgb(168, 11, 11);
+  height:150px;
+  width: Auto;
+  text-align: center;
+  font-size: 150px;
+  margin: 50px;
+  padding: 50px;
  }
 
 p{
-   color: #787878;
+   height: 150px;
+   color: rgb(168, 11, 11);
    text-align: center;
+   font-size: 25px;
  }
 
  button {
+   color: blue;
    margin-left: 50%;
  }
