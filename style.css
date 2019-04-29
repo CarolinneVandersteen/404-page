@@ -1,9 +1,10 @@
 body{
-   background-color: #fccb46;
+   background-color:red;
+
  }
 
  h1{
-  color: rgb(168, 11, 11);
+  color: rgb(24, 6, 6);
   height:150px;
   width: Auto;
   text-align: center;
@@ -14,12 +15,21 @@ body{
 
 p{
    height: 150px;
-   color: rgb(168, 11, 11);
+   color: rgb(56, 4, 4);
    text-align: center;
    font-size: 25px;
  }
 
  button {
-   color: blue;
-   margin-left: 50%;
+   color:white;
+   margin-left:45%;
+   height: 50px;
+   width: 100px;
+   background-color:black;
+ }
+
+ img{
+   width: 500px;
+   height: 300px;
+   margin-left: 450px;
  }
